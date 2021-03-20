@@ -7,7 +7,7 @@ I like to code and learn new things.<br>
 
 - 🌱 I’m currently learning **Swift and Kotlin**
 - 💬 Ask me about **Python and Java**
-- 📫 How to reach me: [Mail](fernando.patricio.maceda@gmail.com) [LinkedIn](https://www.linkedin.com/in/fernando-maceda-patricio-6b23b61bb/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fernando-maceda-patricio-6b23b61bb/)
 - 👯 I’m looking to collaborate on free software projects
 - ⚡ Fun fact: I like to watch anime
 
