@@ -5,7 +5,7 @@ I like to code and learn new things.<br>
 [![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=Fernando1612&show_icons=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando1612&hide=javascript,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🌱 I’m currently learning **Swift, Kotlin**
+- 🌱 I’m currently learning **Swift and Kotlin**
 - 💬 Ask me about **Python and Java**
 - 📫 How to reach me: [Mail](fernando.patricio.maceda@gmail.com) [LinkedIn](https://www.linkedin.com/in/fernando-maceda-patricio-6b23b61bb/)
 - 👯 I’m looking to collaborate on free software projects
